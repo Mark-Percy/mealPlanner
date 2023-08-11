@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mealplanner-5e90c": {
+      "hosting": {
+        "mealPlanner": [
+          "mealplanner-5e90c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mealplanner-5e90c"
+  }
+}
